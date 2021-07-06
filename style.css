@@ -1,3 +1,6 @@
+body{
+    margin: 0;
+}
 section{
     display: flex;
 }
@@ -12,6 +15,9 @@ section{
     width: 90%;
     padding-right:12%;
     
+}
+.person{
+    height: 400px;
 }
 h1{
  font-size:45px;
@@ -30,4 +36,9 @@ p{
     font-weight: 900;
     padding: 10px 40px;
     border-radius: 50px;
+}
+.body{
+    display: flex;
+    background-image: url(images/person-bg.png);
+    background-repeat: no-repeat;
 }
