@@ -45,11 +45,12 @@ p{
 .lower-section{
     display: flex ;
     margin-bottom:5%;
+    width: 100%;
     
 
 }
 .part{
-    width: 50%;
+    width: 100%;
     margin-right: 3%;
     margin-left: 3%;
     padding-left: 3%;
@@ -67,9 +68,11 @@ p{
 }
 .center{
     text-align: center;
+   
 }
 .p-center{
     text-align: center;
+    
 }
 footer{
     background-color: indigo;
@@ -78,4 +81,14 @@ footer{
 }
 .eat{
     padding-bottom: 10px;
+}
+.followers{
+    width: 100%;
+    padding-right: 50px;
+    margin-right: 40px;
+    margin-left: 40px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 10px 30px gray;
+    
 }
