@@ -44,7 +44,7 @@ p{
 }
 .lower-section{
     display: flex ;
-    margin-bottom: 50%;
+    margin-bottom:5%;
     
 
 }
@@ -70,4 +70,12 @@ p{
 }
 .p-center{
     text-align: center;
+}
+footer{
+    background-color: indigo;
+    align-items: center;
+    width: 100%;
+}
+.eat{
+    padding-bottom: 10px;
 }
