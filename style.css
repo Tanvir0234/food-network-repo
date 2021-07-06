@@ -1,0 +1,33 @@
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin-left: 10%;
+    margin-top: 5%;
+    padding-right: 5%;
+}
+.half-width img{
+    
+    width: 90%;
+    padding-right:12%;
+    
+}
+h1{
+ font-size:45px;
+}
+span{
+    color: orange;
+}
+p{
+    color: slategrey;
+    font-size: large;
+}
+.link-button{
+    background-image: linear-gradient(tomato,orange);
+    color: white;
+    text-decoration: none;
+    font-weight: 900;
+    padding: 10px 40px;
+    border-radius: 50px;
+}
